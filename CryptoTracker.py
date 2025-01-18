@@ -96,18 +96,3 @@ Error Message: {err_msg}
 
 Head();
 Starter()
-
-# from random import randint
-# from tkinter import *
-# from tkinter.ttk import *
-# from tkinter import Entry
-# import win32gui, win32con
-# from PIL import Image, ImageTk
-# import tkinter as tk
-
-# root = Tk()
-# root.title('CryptoTracker')
-# root.geometry("500x300+1400+100")
-# root.resizable(False, False)
-
-# bg = ImageTk.PhotoImage(file="bg.jpg")
